@@ -19,7 +19,7 @@ _Waffle Board_: [To be filled out during exploration stage]
 
 ___
 Stage Checklists
-> Complete checklists for stage in process
+> Complete checklists for each stage in process before moving forward
 
 ### Idea Phase (pre-pitch)
 - [ ] Have an idea/problem
@@ -32,14 +32,15 @@ Stage Checklists
   - [ ] **Not antagonistic to government**
   - [ ] **Not "free work"**
 - [ ] Fill out top of this card with problem statement, why, etc.
+- [ ] Coordinate with CfD member to get pitch on agenda for pitch night (first Monday of the month)
 
 ### Presentation Phase/Night
 - [ ] Move card to Pitches/Presentation list in waffle if you are presenting tonight
 - [ ] Present to group (3 min limit)
-- [ ] Group Q&A (***JJB: Recommend we explicitly timebox this***)
+- [ ] Group Q&A (3 min - if there is additional questions that can happen in the follow up pomodoro)
 - [ ] Initial vote on whether ready for Exploration Phase.
   - Cards that are voted ready should get "Pitched - Accepted" label
-  - One Pomodoro for further discussion around any cards that were not determined quite ready for Exploration. Presenter should be ready to discuss, answer any questions, and revise pitch.
+  - One pomodoro for further discussion around any cards that were not determined quite ready for Exploration. Presenter should be ready to discuss, answer any questions, and revise pitch.
   - Quick update after pomodoro from presenters
 - Group determines next step in final vote:
   - a) Idea needs more development (card is moved back to Ideas list with label “Needs development”
