@@ -57,4 +57,3 @@ This phase assumes you have a project champion and project waffle board
 - [ ] Follow pre-populated waffle board steps
 
 ### Active Development
-
